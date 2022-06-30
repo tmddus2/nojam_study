@@ -1,3 +1,5 @@
+# 14502.py와 비교해서 보기
+
 import sys
 input = sys.stdin.readline
 from collections import deque

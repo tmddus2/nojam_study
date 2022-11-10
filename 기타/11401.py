@@ -9,4 +9,4 @@ for i in range(K):
     const = const/(i+1)
 
 
-print(const % 1000000007)
+print(int(const))

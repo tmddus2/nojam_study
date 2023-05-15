@@ -1,4 +1,4 @@
-package graph;
+package 다시풀기;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+// 위상정렬 알고리즘
+// BufferedWriter 사용해서 출력하는 법 익히기
 public class noj2252 {
     public static int N;
     public static int M;

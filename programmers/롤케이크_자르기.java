@@ -1,8 +1,7 @@
 package programmers;
+import java.util.*;
 
 public class 롤케이크_자르기 {
-    import java.util.*;
-
     class Solution {
         public int solution(int[] topping) {
             int answer = 0;
